@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylor124/portfolio-generator.git"
+  },
+  "author": "Taylor Van Scoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylor124/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/taylor124/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "nodemon": "^2.0.7"
+  }
+}
